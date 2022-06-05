@@ -1,5 +1,5 @@
 # MC_Website
-![License](https://img.shields.io/badge/license-MIT-FF0C63?style=for-the-badge) ![GitHub](https://img.shields.io/github/followers/RestedWickedDev?color=4078c0&label=Follow%20Me%20%3A%29&logo=GitHub&style=for-the-badge)
+![License](https://img.shields.io/github/license/RestedWickedDev/mc-website?color=FF0C63&style=for-the-badge) ![GitHub](https://img.shields.io/github/followers/RestedWickedDev?color=4078c0&label=Follow%20Me%20%3A%29&logo=GitHub&style=for-the-badge)
 
 A work-in-progress website to be used with minecraft servers
 
